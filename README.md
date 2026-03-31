@@ -1,11 +1,7 @@
 # Lance Shields — Design Leader & Builder
 
-I'm a design director with 20+ years building products at scale — Walmart, 
-Adobe, Visa, Red Bull, Fitbit. These days I work at the intersection of 
-design leadership and AI-native building.
-
-I use Claude Code, Cursor, and V0.dev to go from idea to deployed product 
-without a traditional engineering handoff. Not to replace engineers. To 
+Design director and principal designer with 20+ years at Walmart, Adobe, and UX agency co-founder. 
+I build with Claude Code, Cursor, and V0.dev to stay close to 
 close the distance between thinking and shipping, and to understand what 
 I'm asking for when I lead teams that build.
 
@@ -17,17 +13,17 @@ Projects I've designed and built myself using AI tools. Some are working apps an
 as a real question I wanted to answer, a tool I actually needed, or an 
 experience I wanted to understand from the inside.
 
-- **[Dreaming in Design](https://dreamingindesign.com)** — AI-powered 
-  portfolio reviewer trained on real hiring criteria. Built with Claude 
-  Code and Cursor.
-- **[Ship Yourself Cards](https://www.shipyourselfcards.com/)** 
-  — Card deck app for designers navigating career transitions. Built with 
-  V0.dev.
+- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** 
+  — Card deck app for designers navigating career transitions.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story 
-  experience built entirely in language. Single HTML file, built in a day.
+  experience. Single HTML file, built in a day.
+  - **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social 
+  audiobook club with an AI host. React prototype built with Figma Make 
+  and Claude Code.
+- **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio 
+  reviewer trained on real hiring criteria.
 - **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** 
-  — Figma plugin that captures vibe coding transcripts and places them 
-  next to your design in the file.
+  — Figma plugin that documents your vibe coding process inside the file.
 
 ---
 
