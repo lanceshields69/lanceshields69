@@ -17,7 +17,7 @@ experience I wanted to understand from the inside.
   — Card deck app for designers navigating career transitions.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story 
   experience. Single HTML file, built in a day.
-  - **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social 
+- **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social 
   audiobook club with an AI host. React prototype built with Figma Make 
   and Claude Code.
 - **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio 
