@@ -1,6 +1,6 @@
 # Lance Shields — Design Leader & Builder
 
-Design director and principal designer with 20+ years at Walmart, Adobe, and UX agency co-founder. I design AI products — multimodal shopping experiences, generative creative tools, AI agents — and I build with AI. Claude Code, Cursor, and V0.dev are how I stay close to the work I lead and honest about what's actually possible.
+Design director and principal designer with 20+ years at Walmart, Adobe, and UX agency co-founder. I design AI products - multimodal shopping experiences, generative creative tools, AI agents - and I build with AI. Claude Code, Cursor, and V0.dev are how I stay close to the work I lead and honest about what's actually possible.
 
 ---
 
