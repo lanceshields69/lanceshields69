@@ -1,16 +1,40 @@
-## Hi there 👋
+# Lance Shields — Design Leader & Builder
 
-<!--
-**lanceshields69/lanceshields69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a design director with 20+ years building products at scale — Walmart, 
+Adobe, Visa, Red Bull, Fitbit. These days I work at the intersection of 
+design leadership and AI-native building.
 
-Here are some ideas to get you started:
+I use Claude Code, Cursor, and V0.dev to go from idea to deployed product 
+without a traditional engineering handoff. Not to replace engineers. To 
+close the distance between thinking and shipping, and to understand what 
+I'm asking for when I lead teams that build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What's here
+
+Projects I've designed and built myself using AI tools. Each one started 
+as a real question I wanted to answer, a tool I actually needed, or an 
+experience I wanted to understand from the inside.
+
+- **[Dreaming in Design](https://dreamingindesign.com)** — AI-powered 
+  portfolio reviewer trained on real hiring criteria. Built with Claude 
+  Code and Cursor.
+- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** 
+  — Card deck app for designers navigating career transitions. Built with 
+  V0.dev.
+- **[We Are the Ones](https://wearetheones.art)** — Interactive story 
+  experience built entirely in language. Single HTML file, built in a day.
+- **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** 
+  — Figma plugin that captures vibe coding transcripts and places them 
+  next to your design in the file.
+
+---
+
+### Background
+
+I led design for AI-powered shopping at Walmart (580M+ monthly visitors) 
+and AI creative tools at Adobe (114% platform growth). I hold an MIT 
+certification in AI Product Design and an MBA.
+
+More at [lanceshields.design](https://lanceshields.design)
