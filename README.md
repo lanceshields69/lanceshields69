@@ -13,7 +13,7 @@ I'm asking for when I lead teams that build.
 
 ### What's here
 
-Projects I've designed and built myself using AI tools. Each one started 
+Projects I've designed and built myself using AI tools. Some are working apps and others are prototypes. Each one started 
 as a real question I wanted to answer, a tool I actually needed, or an 
 experience I wanted to understand from the inside.
 
