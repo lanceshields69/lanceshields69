@@ -20,7 +20,7 @@ experience I wanted to understand from the inside.
 - **[Dreaming in Design](https://dreamingindesign.com)** — AI-powered 
   portfolio reviewer trained on real hiring criteria. Built with Claude 
   Code and Cursor.
-- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** 
+- **[Ship Yourself Cards](https://www.shipyourselfcards.com/)** 
   — Card deck app for designers navigating career transitions. Built with 
   V0.dev.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story 
