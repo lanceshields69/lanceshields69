@@ -30,4 +30,4 @@ I led design for AI-powered shopping at Walmart (580M+ monthly visitors)
 and AI creative tools at Adobe (114% platform growth). I hold an MIT 
 certification in AI Product Design and an MBA.
 
-More at [lanceshields.design](https://lanceshields.design)
+More at [lanceshields.design](https://lanceshields.design) and [mujunstudio.com](https://mujunstudio.com/)
