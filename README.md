@@ -10,6 +10,7 @@ Projects I've designed and built myself using AI tools. Some are working apps an
 as a real question I wanted to answer, a tool I actually needed, or an 
 experience I wanted to understand from the inside.
 
+- **[Mujun Studio Site](https://mujunstudio.com/)** — Vibe-coded, bilingual (EN/JP), and LLM-friendly site with dark/light mode
 - **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** 
   — Card deck app for designers navigating career transitions.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story 
