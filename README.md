@@ -10,6 +10,7 @@ Projects I've designed and built myself using AI tools. Some are working apps an
 as a real question I wanted to answer, a tool I actually needed, or an 
 experience I wanted to understand from the inside.
 
+- **[Words Travel](https://wordstravel.app/)** — An interactive globe tracing how words change as they travel across cultures and time.
 - **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
 - **[Raft Design Site](https://www.raftdesign.studio)** — AI-coded, bilingual (EN/JP), and LLM-friendly site with dark/light mode.
 - **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
