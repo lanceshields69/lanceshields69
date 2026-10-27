@@ -15,13 +15,12 @@ experience I wanted to understand from the inside.
 - **[Words Travel](https://wordstravel.app/)** — An interactive globe tracing how words change as they travel across cultures and time.
 - **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social audiobook club with an AI host. React prototype built with Figma Make 
   and Claude Code.
-- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)**
+- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** — Card deck app for designers navigating career transitions.
 - **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** — Figma plugin that documents your vibe coding process inside the file.
 - **[Raft for Machines](https://raftdesign.studio/ai/)** —I built a machine-only "terminal" of the Raft version plus a pixel logo generator.
 - **[Ask the Sage](https://ask-the-sage.vercel.app/)** — AI skill and MCP server, draws on the Tao Te Ching to introduce intentional pause into modern AI conversations.
 - **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
 - **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
-  — Card deck app for designers navigating career transitions.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story experience. Single HTML file, built in a day.
 - **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio reviewer trained on real hiring criteria.
 
