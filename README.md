@@ -21,6 +21,7 @@ You can also check out my [AI studio](https://www.lanceshields.design/ai-lab).
 - **[Raft for Machines](https://raftdesign.studio/ai/)** —I built a machine-only "terminal" of the Raft version plus a pixel logo generator.
 - **[Ask the Sage](https://ask-the-sage.vercel.app/)** — AI skill and MCP server, draws on the Tao Te Ching to introduce intentional pause into modern AI conversations.
 - **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
+- **[Photography Portfolio Site](https://lanceshields-photos.vercel.app/)** — Ultra fast loading site built with DeepSeek using Astro framework.
 - **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
 - **[We Are the Ones](https://wearetheones.art)** — Interactive story experience. Single HTML file, built in a day.
 - **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio reviewer trained on real hiring criteria.
