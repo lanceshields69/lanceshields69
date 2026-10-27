@@ -7,7 +7,7 @@ Design director and principal designer with 20+ years at Walmart, Adobe, and UX 
 ### What's here
 
 Projects I've designed and built myself using AI tools. Some are working apps and others are prototypes. Each one started 
-as a real question I wanted to answer, a tool I actually needed, or an experience I wanted to understand from the inside. You can also check out my [AI Lab] (https://www.lanceshields.design/ai-lab).
+as a real question I wanted to answer, a tool I actually needed, or an experience I wanted to understand from the inside. You can also check out my [AI studio](https://www.lanceshields.design/ai-lab).
 
 
 - **[Raft Design Site](https://www.raftdesign.studio)** — AI-coded, bilingual (EN/JP), and LLM-friendly site with dark/light mode.
