@@ -18,6 +18,7 @@ experience I wanted to understand from the inside.
 - **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)**
 - **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** — Figma plugin that documents your vibe coding process inside the file.
 - **[Raft for Machines](https://raftdesign.studio/ai/)** —I built a machine-only "terminal" of the Raft version plus a pixel logo generator.
+- **[Ask the Sage](https://ask-the-sage.vercel.app/)** — AI skill and MCP server, draws on the Tao Te Ching to introduce intentional pause into modern AI conversations.
 - **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
 - **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
   — Card deck app for designers navigating career transitions.
