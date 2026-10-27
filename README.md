@@ -10,21 +10,19 @@ Projects I've designed and built myself using AI tools. Some are working apps an
 as a real question I wanted to answer, a tool I actually needed, or an 
 experience I wanted to understand from the inside.
 
-- **[Words Travel](https://wordstravel.app/)** — An interactive globe tracing how words change as they travel across cultures and time.
-- **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
+
 - **[Raft Design Site](https://www.raftdesign.studio)** — AI-coded, bilingual (EN/JP), and LLM-friendly site with dark/light mode.
-- **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
-- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)** 
-  — Card deck app for designers navigating career transitions.
-- **[We Are the Ones](https://wearetheones.art)** — Interactive story 
-  experience. Single HTML file, built in a day.
-- **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social 
-  audiobook club with an AI host. React prototype built with Figma Make 
+- **[Words Travel](https://wordstravel.app/)** — An interactive globe tracing how words change as they travel across cultures and time.
+- **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social audiobook club with an AI host. React prototype built with Figma Make 
   and Claude Code.
-- **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio 
-  reviewer trained on real hiring criteria.
-- **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** 
-  — Figma plugin that documents your vibe coding process inside the file.
+- **[Ship Yourself Cards](https://lanceshields.design/ship-yourself-cards)**
+- **[Prompt Annotations](https://lanceshields.design/prompt-annotations)** — Figma plugin that documents your vibe coding process inside the file.
+- - **[Raft for Machines](https://raftdesign.studio/ai/)** —I built a machine-only "terminal" of the Raft version.
+- **[AI Design LA Site](https://aidesignla.org/)** — AI-coded community meetup site. Converted to Wordpress site.
+- **[Design Intelligence](https://design-intelligence-engine.lovable.app)** — AI-powered diagnostics to score design, code, and GEO.
+  — Card deck app for designers navigating career transitions.
+- **[We Are the Ones](https://wearetheones.art)** — Interactive story experience. Single HTML file, built in a day.
+- **[Dreaming in Design](https://dreamingindesign.com)** — AI portfolio reviewer trained on real hiring criteria.
 
 ---
 
