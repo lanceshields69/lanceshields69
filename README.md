@@ -12,6 +12,7 @@ as a real question I wanted to answer, a tool I actually needed, or an experienc
 You can also check out my [AI studio](https://www.lanceshields.design/ai-lab).
 
 
+- **[Money & Margins](https://moneyandmargins.app/))** — A nonpartisan map of outside spending, forecasts and results in the 2026 U.S. Senate races.
 - **[Raft Design Site](https://www.raftdesign.studio)** — AI-coded, bilingual (EN/JP), and LLM-friendly site with dark/light mode.
 - **[Words Travel](https://wordstravel.app/)** — An interactive globe tracing how words change as they travel across cultures and time.
 - **[Storyroom](https://lanceshields69.github.io/storyroom/)** — Social audiobook club with an AI host. React prototype built with Figma Make 
